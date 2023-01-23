@@ -82,4 +82,4 @@ Home page `/home`:
 2. Open http://localhost:3005
 
 ## Testing
-1. In project directory run in terminal: `npm test`
+1. In project directory run in terminal: `npm test`# react-restaurant-5
